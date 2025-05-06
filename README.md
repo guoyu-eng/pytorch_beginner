@@ -12,3 +12,18 @@ This repository contains basic and intermediate-level implementations of PyTorch
 
 The goal is to practice core PyTorch APIs and build a reusable training pipeline.
 
+
+## Project Structure
+
+├── data/ # raw data（CIFAR-10 etc）
+├── dataloader/ # Custom PyTorch Dataset and DataLoader
+├── nnmodule/ # Models built with nn.Module
+├── transform/ # Data enhancement and transforms operations
+├── datatrans_logs/ # TensorBoard Logs
+├── pycharn/ # Pycharm configuration (optional)
+├── tensrboard/ # TensorBoard Scripts
+├── datatrans.py # Data processing scripts
+├── read_data.py # Tool files for reading data
+├── pytorch.py # Main Program Entry
+└── README.md # This note document
+
