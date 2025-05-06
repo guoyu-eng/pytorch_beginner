@@ -29,7 +29,7 @@ The goal is to practice core PyTorch APIs and build a reusable training pipeline
 
 ---
 
-### ⚙️ 3.（Installation & Requirements）
+## （Installation & Requirements）
 
 ```markdown
 ## Requirements
