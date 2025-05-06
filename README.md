@@ -26,3 +26,23 @@ The goal is to practice core PyTorch APIs and build a reusable training pipeline
 - pytorch.py # Main Program Entry
 - README.md # This note document
 
+
+---
+
+### ⚙️ 3.（Installation & Requirements）
+
+```markdown
+## Requirements
+
+- Python >= 3.8
+- torch >= 2.0
+- torchvision
+- matplotlib
+- numpy
+- tensorboard
+
+Install dependencies:
+
+```bash
+
+
